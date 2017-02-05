@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <meta charset="utf-8">
@@ -29,6 +28,10 @@
   </head>
 
   <body>
+    <?script
+
+
+    ?>
 
     <!-- Static navbar -->
     <div class="navbar navbar-inverse navbar-static-top">
@@ -45,7 +48,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="work.html">Trabalho</a></li>
             <li><a href="about.html">Sobre</a></li>
-            <li><a href="contact.html">Contato</a></li>
+            <li><a href="contact.html"><del>Contato</del></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -57,16 +60,29 @@
 	<div class="container pt">
 		<div class="row mt">
 			<div class="col-lg-6 col-lg-offset-3 centered">
-				<h3>TREINAMENTO FREE CODE CAMP</h3>
+				<h4>E-MAIL ENVIADO</h4>
 				<hr>
 				<p></p>
 			</div>
 		</div>
 		<div class="row mt centered">
 			<div class="col-lg-8 col-lg-offset-2">
-				<p><img class="img-responsive" src="assets/img/portfolio/1.jpg" alt="SIMON GAME"></p>
-				<p><img class="img-responsive" src="assets/img/portfolio/2.jpg" alt="CALCULADORA JavaScript"></p>
-				<p><img class="img-responsive" src="assets/img/portfolio/3.jpg" alt="WIKIPEDIA VIEW"></p>
+				<div class='stage intro_s'>
+  				<div class='scene center'>
+    			<h1 class='intro'>OBRIGADO</h1>
+    			<h2 class='sub'>TENHA UM ÓTIMO DIA</h2>
+    			<span class='header code'>TREINANDO</span>
+    			<span class='subheader pro'>Para ser um Jedi</span>
+    			<span class='header years'>Me mande dicas</span>
+    			<span class='subheader don'>Quero conhecer mais</span>
+    			<span class='header build'>Posso fazer sites desse jeito</span>
+    			<span class='subheader calc'>Meu e-mail é:</span>
+    			<span class='header call'>marcosodesenvolvedor@gmail.com</span>
+  			</div>
+		</div>
+ 	 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+	 <script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+     <script src="assets/js/index.js"></script>
 			</div>
 		</div><!-- /row -->
 	</div><!-- /container -->
@@ -80,9 +96,9 @@
 				<div class="col-lg-4">
 					<h4>My Bunker</h4>
 					<p>
-						E-mail,<br/>
-						e-mail, <br/>
-						e-mail.
+            <a href="mailto:mmaxmjunior@gmail.com">mmaxmjunior@gmail.com</a>,<br/>
+            <a href="mailto:mmaxmjunior@gmail.com">mmaxmjunior@gmail.com</a>, <br/>
+            <a href="mailto:mmaxmjunior@gmail.com">mmaxmjunior@gmail.com</a>.
 					</p>
 				</div><!-- /col-lg-4 -->
 
@@ -90,7 +106,7 @@
 					<h4>LINKS</h4>
 					<p>
             <a href="mailto:mmaxmjunior@gmail.com">Twitter</a><br/>
-						<a href="mailto:mmaxmjunior@gmail.com">Facebook</a>
+            <a href="mailto:mmaxmjunior@gmail.com">Facebook</a>
 					</p>
 				</div><!-- /col-lg-4 -->
 

@@ -45,81 +45,89 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="work.html">Trabalho</a></li>
             <li><a href="about.html">Sobre</a></li>
-            <li><a href="contact.html"><del>Contato</del></a></li>
+            <li><a href="contact.html">Contato</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
-	
-	
+
+
 	<!-- +++++ Contact Section +++++ -->
-	
+
 	<div class="container pt">
 		<div class="row mt">
 			<div class="col-lg-6 col-lg-offset-3 centered">
 				<h3>CONTATO</h3>
 				<hr>
-				<p>AINDA NÃO ESTA FUNCIONANDO!!<p>
+				<p>ME MANDE UMA MENSAGEM<p>
 			</div>
 		</div>
-		
 
-		<div class="row mt">	
+
+		<div class="row mt">
 			<div class="col-lg-8 col-lg-offset-2">
-				<form role="form" action="marcosodesenvolvedor@gmail.com" method="post" enctype="text/plain">
-				  <div class="form-group">
-				    <input type="name" class="form-control" id="NameInputEmail1" placeholder="NOME">
+
+      	<form action="send.php" method="post" name="form_contato" id="form_contato">
+
+          <div class="form-group">
+				    <input type="name" class="form-control" id="nome" name="nome" placeholder="NOME">
 				    <br>
 				  </div>
-				  <div class="form-group">
-				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="E-MAIL">
+
+          <div class="form-group">
+				    <input type="name" class="form-control" id="assunto" name="assunto" placeholder="ASSUNTO">
 				    <br>
 				  </div>
-				  <div class="form-group">
-				    <input type="email" class="form-control" id="subjectEmail1" placeholder="ASSUNTO">
+
+          <div class="form-group">
+				    <input type="email" class="form-control" id="email" name="email" placeholder="EMAIL">
 				    <br>
-				  </div>
-				  <textarea class="form-control" rows="6" placeholder="Seu texto aqui."></textarea>
+          </div>
+
+          <textarea class="form-control" rows="6" id = "mensagem" name="mensagem" placeholder="Seu texto aqui."></textarea>
 				    <br>
-				  <button type="submit" class="btn btn-success">ENVIAR</button>
-				</form>    			
-			</div>
+
+          <button type="submit" name="submit" class="btn btn-success">ENVIAR</button>
+
+        </form>
+
+      </div>
 		</div><!-- /row -->
 	</div><!-- /container -->
-	
-	
+
+
 	<!-- +++++ Footer Section +++++ -->
-	
+
 	<div id="footer">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4">
 					<h4>e-mail</h4>
 					<p>
-						<a href="mailto:marcosodesenvolvedor@gmail.com">marcosodesenvolvedor@gmail.com</a>,<br/>
-						<a href="mailto:marcosodesenvolvedor@gmail.com">marcosodesenvolvedor@gmail.com</a>, <br/>
-						<a href="mailto:marcosodesenvolvedor@gmail.com">marcosodesenvolvedor@gmail.com</a>.
+						<a href="mailto:mmaxmjunior@gmail.com">mmaxmjunior@gmail.com</a>,<br/>
+						<a href="mailto:mmaxmjunior@gmail.com">mmaxmjunior@gmail.com</a>, <br/>
+						<a href="mailto:mmaxmjunior@gmail.com">mmaxmjunior@gmail.com</a>.
 					</p>
 				</div><!-- /col-lg-4 -->
-				
+
 				<div class="col-lg-4">
 					<h4>LINKS</h4>
 					<p>
-						<a href="mailto:marcosodesenvolvedor@gmail.com">Twitter</a><br/>
-						<a href="mailto:marcosodesenvolvedor@gmail.com">Facebook</a>
+						<a href="mailto:mmaxmjunior@gmail.com">Twitter</a><br/>
+						<a href="mailto:mmaxmjunior@gmail.com">Facebook</a>
 					</p>
 				</div><!-- /col-lg-4 -->
-				
+
 				<div class="col-lg-4">
 					<h4>Marcos</h4>
 					<p>TREINANDO & TREINANDO</p>
 				</div><!-- /col-lg-4 -->
-			
+
 			</div>
-		
+
 		</div>
 	</div>
-	
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
