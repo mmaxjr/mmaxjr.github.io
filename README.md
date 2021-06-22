@@ -9,6 +9,8 @@
 * [Huawei Wiki - router](wiki/huawei_sv2_wiki.md)
 	* [Huawei Wiki - router - Arquivo PDF](wiki/huawei_sv2_wiki_pdf.pdf)
 
+* [Huawei - commit/rollback ](wiki/commit_rollback_huawei.md)
+
 
 ---
 
