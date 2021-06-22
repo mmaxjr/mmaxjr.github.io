@@ -2,7 +2,7 @@
 
 ## Knowledge base
 
-* [Tips & tricks](wiki/exemplo.md)
+* [Tips & tricks](wiki/configurando_ma5608t_OLT.md)
 
 ---
 
