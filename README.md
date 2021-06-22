@@ -2,7 +2,7 @@
 
 ## Knowledge base
 
-* [Tips & tricks](wiki/configurando_ma5608t_OLT.md)
+* [Configurar o Huawei MA5608T](wiki/configurando_ma5608t_OLT.md)
 
 ---
 
