@@ -20,7 +20,12 @@
 
 
 ---
-## Guides
+## Tools
+* [Crackstation - Free Password Hash Cracker](https://crackstation.net/)
+
+
+
+
 
 ### Exemplo 1
 
