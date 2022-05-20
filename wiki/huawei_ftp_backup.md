@@ -1,3 +1,4 @@
+'''
 file-server auto-backup debug primary X.X.X.X FTP user
  file-server auto-backup data primary X.X.X.X FTP user 
  file-server auto-backup configuration primary X.X.X.X FTP user
@@ -11,3 +12,4 @@ file-server auto-backup debug primary X.X.X.X FTP user
  auto-backup period configuration enable
  auto-backup period alarm-event enable
  auto-backup period log enable
+'''
