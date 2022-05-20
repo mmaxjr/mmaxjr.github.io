@@ -26,7 +26,7 @@
 
 
 ## VPN
-* [VPN - Reconnect - Windows](wiki/vpn_reconnect.pdf)
+* [VPN - Reconnect - Windows](wiki/VPN_reconnect.pdf)
 
 
 ### Exemplo 1
