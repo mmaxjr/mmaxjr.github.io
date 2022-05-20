@@ -14,6 +14,7 @@
 
 * [Huawei - commit/rollback ](wiki/commit_rollback_huawei.md)
 
+* [Huawei - ftp backup - OLT](wiki/huawei_ftp_backup.md)
 
 ---
 
