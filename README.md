@@ -16,6 +16,8 @@
 
 * [Huawei - ftp backup - OLT](wiki/huawei_ftp_backup.md)
 
+* [Huawei - backup script python - GITHUB - script remontti](https://github.com/mmaxjr/BackupHuawei)
+
 ---
 
 
