@@ -33,4 +33,4 @@
 
 ### Exemplo 1
 
-### Exemplo 2
+### [TENETS OF TI](wiki/tenets.md)
