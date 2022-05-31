@@ -19,13 +19,13 @@
 * [Huawei - backup script python - GITHUB - script remontti](https://github.com/mmaxjr/BackupHuawei)
 
 ---
-
+## PowerShell
+  > Invoke-RestMethod -Uri ('[https://ipinfo.io/](https://ipinfo.io/)')
 
 
 ---
 ## Tools
 * [Crackstation - Free Password Hash Cracker](https://crackstation.net/)
-
 
 ## VPN
 * [VPN - Reconnect - Windows](wiki/VPN_reconnect.pdf)
