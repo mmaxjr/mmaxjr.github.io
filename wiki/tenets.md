@@ -56,3 +56,5 @@
 53.	The longer everything goes according to plan, the bigger the impending disaster.
 54.	Sales Engineers are a gift from heaven, they prevent salespeople from over-promising.
 55.	Printers have moods, most of the time that mood is 'Fuck you'.
+
+Ref.: https://github.com/DavidBrightSparc/Tenets-of-IT
